@@ -1,0 +1,27 @@
+Drill report for 3s25ABMS.kicad_pcb
+Created on 10/27/2022 10:38:11 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file '3s25ABMS-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.600mm  0.0236"  (48 holes)
+    T2  2.000mm  0.0787"  (1 hole)
+    T3  2.000mm  0.0787"  (12 holes)
+    T4  4.000mm  0.1575"  (6 holes)
+
+    Total plated holes count 67
+
+
+Drill file '3s25ABMS-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
